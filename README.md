@@ -1,7 +1,11 @@
-# Flight Fare Prediction: 
+# fLIGHT dEKHO & hOTEL dHUNDO | Coding Innovators | HackNITP3.0
 
 ## Demo
-Link: [https://flight-fare-predictor.vercel.app/](https://flight-fare-predictor.vercel.app/)
+Live Hosting: [https://flight-fare-predictor.vercel.app/](https://flight-fare-predictor.vercel.app/)
+
+PPT: [https://docs.google.com/presentation/d/1fdavAkmrPZcQqHHW5mUYcNiUpZuPMcZ5C3nYRjCEqTs/edit?usp=sharing](https://docs.google.com/presentation/d/1fdavAkmrPZcQqHHW5mUYcNiUpZuPMcZ5C3nYRjCEqTs/edit?usp=sharing)
+
+Video: [https://youtu.be/lIEkKpd_iQc](https://youtu.be/lIEkKpd_iQc)
 
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-fare-predictor.vercel.app/)
 
